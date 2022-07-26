@@ -2,7 +2,7 @@
 
 ## Hey there, I am Hitesh Pal
 
-I have build this website with my core HTML CSS skills
+I have build this template website with my core HTML CSS skills
 
 
 ![badge](https://img.shields.io/badge/Project9-Developer%20Page-yellowgreen)
@@ -10,7 +10,7 @@ I have build this website with my core HTML CSS skills
 
 ![image](./images/created.png)
 
-You can check out here: [Justice By Hitesh](https://justice-by-hitesh.netlify.app/)
+You can check out here: [Developer Landing Page By Hitesh](https://hitesh-developer-landing-page.netlify.app/)
 
 
 
